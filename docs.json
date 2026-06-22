@@ -63,13 +63,14 @@
       {
         "group": "Python",
         "pages": [
-          "index",
           "quickstart"
         ]
       },
       {
         "group": "Welcome",
-        "pages": []
+        "pages": [
+          "index"
+        ]
       }
     ]
   }
