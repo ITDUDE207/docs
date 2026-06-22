@@ -10,10 +10,10 @@
   "favicon": "/favicon.svg",
   "navigation": {
     "pages": [
+      "index"
       {
-        "group": "Getting Started",
-        "pages": [
-          "index",
+        "group": "Python",
+        "pages": 
           "quickstart"
         ]
       }
